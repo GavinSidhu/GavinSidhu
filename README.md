@@ -28,7 +28,7 @@ I'm a data engineer with a passion for building efficient, scalable data pipelin
 ### 🌱 Current Learning Path
 
 I'm currently expanding my knowledge in:
-- Dagster for workflow orchestration
+- Dagster/Airflow for workflow orchestration
 - dbt for data transformation
 - Advanced Snowflake features
 - Building event-driven data pipelines
