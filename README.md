@@ -8,9 +8,9 @@ I'm a data engineer with a passion for building efficient, scalable data pipelin
 
 - **Languages**: SQL, Python, Java
 - **Data Engineering**: ETL/ELT, Data Pipelines, Data Migration, Data Validation
-- **Cloud & Tools**: AWS (Certified Cloud Practitioner), Snowflake, Matillion ETL, Informatica, Dagster, dbt
-- **Data Analysis**: Jupyter Notebook, Tableau, Statistical Analysis, Pandas, NumPy
-- **DevOps**: Docker, CI/CD, Version Control (Git)
+- **Cloud & Tools**: AWS (Certified Cloud Practitioner), Snowflake, Matillion ETL, Dagster, dbt
+- **Data Analysis**: Jupyter Notebook, Tableau, Pandas, NumPy
+- **DevOps**: Docker, Version Control (Git)
 
 ### 🔍 What I'm Currently Focused On
 
@@ -35,7 +35,7 @@ I'm currently expanding my knowledge in:
 
 ### 📊 Featured Projects
 
-- **Stock ETL Pipeline**: End-to-end data pipeline built with Dagster, PostgreSQL, and dbt that extracts stock data from YFinance, applies transformations, and implements the 37% rule for trading signal generation. Features incremental loading, containerized deployment with Docker, automated backtesting of different window sizes, and a Discord notification system for trading alerts.
+- **Stock ETL Pipeline**: End-to-end data pipeline built with Dagster, PostgreSQL, and dbt that extracts stock data from YFinance, applies transformations, and generates trading signals. Features incremental loading, containerized deployment with Docker, automated backtesting of different window sizes, and a Discord notification system for trading alerts.
 
 - **Twitter Topic Analysis**: Implementation of the Apriori algorithm to discover patterns and associations in Twitter datasets, extracting meaningful insights from social media content.
 
